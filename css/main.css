@@ -1,1 +1,14 @@
 /* Los estilos de tu proyecto */
+.first {
+  background-image: url("../assets/images/conduce.jpg");
+  width: 100%;
+  height: 100%;
+}
+
+.second1 {
+  background-color: yellow;
+}
+
+.second {
+  display: flex;
+}
